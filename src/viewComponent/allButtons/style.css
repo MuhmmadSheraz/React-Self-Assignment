@@ -1,0 +1,11 @@
+.inp {
+  padding: 15px;
+  margin-bottom: 20px;
+}
+.btn {
+    padding: 15px;
+    margin-bottom: 20px;
+  background-color: #a3579f;
+  border: 3px solid white;
+  border-radius: 5px;
+}
